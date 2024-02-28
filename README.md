@@ -50,7 +50,7 @@ for(f in files) {
 }
 
 # Tratamento dos Dados
-Descobrimos que grande parte dos dados vinham em códigos, sendo assim, precisamos da documentação para tratar os dados, uma das fontes de consulta foi a própria docuemntação disponível no [TabWin](https://datasus.saude.gov.br/transferencia-de-arquivos/) > SINAN > Documentação.
+Descobrimos que grande parte dos dados vinham em códigos, sendo assim, precisamos da documentação para tratar os dados, uma das fontes de consulta foi a própria documentação disponível no [TabWin](https://datasus.saude.gov.br/transferencia-de-arquivos/) > SINAN > Documentação.
 
 
 # Conclusão
